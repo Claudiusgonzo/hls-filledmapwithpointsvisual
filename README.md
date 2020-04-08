@@ -17,10 +17,10 @@ Outline the file contents of the repository. It helps users navigate the codebas
 2. Healthcare organization wants to add a 'pin' to the location of care centers (e.g. hospitals) based on latitude / longitude so they can see how "hot spots" align to their care centers.
 3. Healthcare organization wants a tooltip on each state / county that shows # infected, # fatalities, and # recovered.
 
-## Expected Skills & Technologies
+## Desired Skills & Technologies
 
-Node.js - The community can create custom Power BI Visualizations by using the SDK and Node.js. Get started [here](https://powerbi.microsoft.com/en-us/developers/custom-visualization/).
-Power BI - basic skill needed. Creating a custom visualization is complex, but setting up a basic Power BI report and data is fairly simple. Download Power BI Desktop [here](https://powerbi.microsoft.com/en-us/downloads/).
+- Node.js - The community can create custom Power BI Visualizations by using the SDK and Node.js. Get started [here](https://powerbi.microsoft.com/en-us/developers/custom-visualization/).
+- Power BI - basic skill needed. Creating a custom visualization is complex, but setting up a basic Power BI report and data is fairly simple. Download Power BI Desktop [here](https://powerbi.microsoft.com/en-us/downloads/).
 
 ## Contributing
 
